@@ -31,8 +31,12 @@ img {
 }
 */
 
+h2 {text-align: left;
+}
+
 h3 {
   margin: 0 0 1em 0;
+  text-align: left;
 }
 
 
@@ -46,11 +50,11 @@ header {
   margin: 0 0 30px 0;
   padding: 5px 0 0 0;
   width: 100%;
-}
+ }
 
 .main-header {
    background-color: #009900  /*The dark green in the top band*/
-   
+      
 }
 
 #logo {
@@ -290,7 +294,7 @@ h1, h2 {
 
 /* links */
 a {
-  color: #669900; /*The green of the logo. #e68a00;*/
+  color: #993300/*The green of the logo. #e68a00;*/
 }
 
 /* nav link */
